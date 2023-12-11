@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: #343A40;
+  }
+
+  .marginTop{
+    margin-top: 50px;
+  }
+
+  .gris-fondo {
+    background-color: #AFAFAF;
+  }
